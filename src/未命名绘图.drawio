@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.12">
   <diagram name="第 1 页" id="TXk5R68CiofHuLBN7pwi">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9Yu7Q3OUn9PUpvEbr4w--1" value="test" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9Yu7Q3OUn9PUpvEbr4w--2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjMyIiB3aWR0aD0iMzIiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgY2xhc3M9Imljb24iPjxwYXRoIGZpbGw9IiNiZmJmYmYiIGQ9Ik01MTIgMTA4YzU0LjU2IDAgMTA3LjQ2IDEwLjY4IDE1Ny4yNCAzMS43MyA0OC4xIDIwLjM1IDkxLjMxIDQ5LjQ4IDEyOC40MyA4Ni42czY2LjI1IDgwLjMzIDg2LjYgMTI4LjQzQzkwNS4zMiA0MDQuNTQgOTE2IDQ1Ny40NCA5MTYgNTEycy0xMC42OCAxMDcuNDYtMzEuNzMgMTU3LjI0Yy0yMC4zNSA0OC4xLTQ5LjQ4IDkxLjMxLTg2LjYgMTI4LjQzcy04MC4zMyA2Ni4yNS0xMjguNDMgODYuNkM2MTkuNDYgOTA1LjMyIDU2Ni41NiA5MTYgNTEyIDkxNnMtMTA3LjQ2LTEwLjY4LTE1Ny4yNC0zMS43M2MtNDguMS0yMC4zNS05MS4zMS00OS40OC0xMjguNDMtODYuNnMtNjYuMjUtODAuMzMtODYuNi0xMjguNDNDMTE4LjY4IDYxOS40NiAxMDggNTY2LjU2IDEwOCA1MTJzMTAuNjgtMTA3LjQ2IDMxLjczLTE1Ny4yNGMyMC4zNS00OC4xIDQ5LjQ4LTkxLjMxIDg2LjYtMTI4LjQzczgwLjMzLTY2LjI1IDEyOC40My04Ni42QzQwNC41NCAxMTguNjggNDU3LjQ0IDEwOCA1MTIgMTA4bTAtNDRDMjY0LjU4IDY0IDY0IDI2NC41OCA2NCA1MTJzMjAwLjU4IDQ0OCA0NDggNDQ4IDQ0OC0yMDAuNTggNDQ4LTQ0OFM3NTkuNDIgNjQgNTEyIDY0eiIvPjxwYXRoIGZpbGw9IiNiZmJmYmYiIGQ9Ik0zOTIuNDQgMzcwLjA0di01MC45NmgyMzguOGwwLjMyIDUzLjJjLTUzLjIgNzAuNTYtMTE4LjcyIDE4OS4yOC0xMTguNzIgMzE2Ljk2djE1LjY4aC01NnYtMTYuMjRjMC0xMzIuMTYgNjguMzItMjU4LjE2IDExMS40NC0zMTguNjRIMzkyLjQ0eiIvPjwvc3ZnPg==;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="230" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
